@@ -2,7 +2,10 @@
 title: "Curriculum Vitae"
 ---
 
-You can download my full CV here: <a href="files/Tselmen_Anuurad_CV_Nov_2025.pdf" class="btn btn-primary" target="_blank">Download PDF</a>
+You can download my full CV here: <a href="files/Tselmen_Anuurad_CV_Nov_2025.pdf" target="_blank" style="text-decoration: none; font-size: 2rem;">
+  <i class="bi bi-file-earmark-arrow-down-fill"></i>
+</a>
+</p>
 
 ## Education
 **University of California, Los Angeles** | Los Angeles, CA

@@ -1,13 +1,13 @@
-/* css styles */
-h1, h2, h3 {
+/* Apply Georgia to EVERYTHING on the site */
+body, h1, h2, h3, h4, h5, h6 {
   font-family: "Georgia", serif;
-  color: #2c3e50; /* A dark slate blue */
+  color: #2c3e50; /* Keeps that dark slate blue for text */
 }
 
-/* Change the link color to stand out */
-a {
-  color: #c0392b; /* A deep red, similar to Heiss's accent color */
-  text-decoration: none;
+/* Optional: Make the body text slightly larger for readability */
+body {
+  font-size: 1.1rem; 
+  line-height: 1.6; /* Adds nice breathing room between lines */
 }
 
 a:hover {

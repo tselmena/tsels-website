@@ -1,15 +1,59 @@
-/* Apply Georgia to EVERYTHING on the site */
+/* --- 1. FONTS & COLOR THEME (Kept from previous steps) --- */
+/* Apply Georgia everywhere */
 body, h1, h2, h3, h4, h5, h6 {
   font-family: "Georgia", serif;
-  color: #2c3e50; /* Keeps that dark slate blue for text */
+  color: #2c3e50; /* Dark slate blue text */
 }
 
-/* Optional: Make the body text slightly larger for readability */
-body {
-  font-size: 1.1rem; 
-  line-height: 1.6; /* Adds nice breathing room between lines */
+/* Red link accent */
+a {
+  color: #ABB1D4;
+  text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+/* Body spacing for readability */
+body {
+  font-size: 1.1rem;
+  line-height: 1.7; /* Breathing room for text */
+}
+
+/* --- 2. NEW: THE RED BAR AT TOP --- */
+/* This targets the main header container of the site */
+header#quarto-header {
+  border-top: 10px solid #ABB1D4; /* Thick solid red bar at the very top */
+}
+
+/* --- 3. NEW: FIX THE MESSY SIDEBAR --- */
+/* These instructions clean up the trestles layout */
+
+/* Center everything inside the left sidebar (image, title, links) */
+.quarto-about-trestles .about-entity {
+  text-align: center;
+  padding-right: 2em; /* Adds space between sidebar and main text */
+}
+
+/* Make the profile links look like cleaner buttons */
+.quarto-about-trestles .about-links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; /* Space between links */
+  align-items: center; /* Center the links */
+}
+
+.quarto-about-trestles .about-link {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding: 8px 15px;
+  width: 80%; /* Makes links uniform width */
+  background-color: white;
+}
+
+.quarto-about-trestles .about-link:hover {
+  background-color: #f8f9fa;
+  border-color: #adb5bd;
+  text-decoration: none !important;
 }

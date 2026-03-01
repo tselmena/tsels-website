@@ -1,9 +1,9 @@
 ---
-title: "Tselmen Anuurad"
 image: website-photo.jpg
 about:
   template: trestles 
   image-shape: rounded
+  image-width: 15rem
   links:
     - icon: github
       text: Github

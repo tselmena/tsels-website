@@ -1,0 +1,13 @@
+---
+title: "Curriculum Vitae"
+---
+
+You can download my full CV here: <a href="files/Tselmen_Anuurad_CV_Nov_2025.pdf" class="btn btn-primary" target="_blank">Download PDF</a>
+
+## Education
+**University of California, Los Angeles** | Los Angeles, CA
+B.S. in Statistics and Data Science | Expected June 2026
+
+## Experience
+
+Work in progress...

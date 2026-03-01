@@ -5,20 +5,29 @@ project:
     - ".nojekyll"
 
 website:
-  title: "tselmena"
+  title: "Tselmen Anuurad" 
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: CV.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/tselmena
+      - icon: linkedin
+        href: www.linkedin.com/in/tselmen-anuurad
+      - icon: envelope
+        href: tsel@ucla.edu
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo # "Cosmo" or "Litera" are clean themes similar to Heiss's style
     css: styles.css
     toc: true
-
 
 

@@ -1,8 +1,9 @@
 ---
 title: "Tselmen Anuurad"
-image: website-photo.jpg # Make sure to add a photo named profile.jpg to your folder!
+image: website-photo.jpg
 about:
-  template: jolla # This creates the centered "hero" layout
+  template: trestles 
+  image-shape: rounded
   links:
     - icon: github
       text: Github
@@ -12,6 +13,13 @@ about:
       href: www.linkedin.com/in/tselmen-anuurad
 ---
 
-Hello! I am a senior at **UCLA** majoring in **Statistics and Data Science**. 
+## Hello there!
 
-Welcome to my personal website :)
+I am a senior at **UCLA** majoring in **Statistics and Data Science**. 
+
+### My Background
+
+
+### Current Work
+
+I am currently working on...

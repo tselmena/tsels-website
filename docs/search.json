@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Download CV"
-  },
-  {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
     "title": "Curriculum Vitae",
@@ -19,13 +12,6 @@
     "title": "Curriculum Vitae",
     "section": "Experience",
     "text": "Experience\nWork in progress…"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tselmen Anuurad",
-    "section": "",
-    "text": "Hello! I am a senior at UCLA majoring in Statistics and Data Science.\nWelcome to my personal website :)"
   },
   {
     "objectID": "projects.html",
@@ -42,10 +28,17 @@
     "text": "Work in progress.."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tselmen Anuurad",
     "section": "",
-    "text": "About this site"
+    "text": "I am a senior at UCLA majoring in Statistics and Data Science.\n\n\n\n\n\nI am currently working on…"
+  },
+  {
+    "objectID": "index.html#hello-there",
+    "href": "index.html#hello-there",
+    "title": "Tselmen Anuurad",
+    "section": "",
+    "text": "I am a senior at UCLA majoring in Statistics and Data Science.\n\n\n\n\n\nI am currently working on…"
   }
 ]

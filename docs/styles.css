@@ -17,13 +17,13 @@ a:hover {
 
 /* Body spacing for readability */
 body {
-  font-size: 1rem;
+  font-size: 14px;
   line-height: 1.7; /* Breathing room for text */
 }
 
 /* This targets the main header container of the site */
 header#quarto-header {
-  border-top: 15px solid #ABB1D4; /* Thick solid red bar at the very top */
+  border-top: 20px solid #ABB1D4; /* Thick solid red bar at the very top */
 }
 
 /* These instructions clean up the trestles layout */

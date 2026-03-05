@@ -17,17 +17,15 @@ a:hover {
 
 /* Body spacing for readability */
 body {
-  font-size: 1.1rem;
+  font-size: 1rem;
   line-height: 1.7; /* Breathing room for text */
 }
 
-/* --- 2. NEW: THE RED BAR AT TOP --- */
 /* This targets the main header container of the site */
 header#quarto-header {
-  border-top: 10px solid #ABB1D4; /* Thick solid red bar at the very top */
+  border-top: 15px solid #ABB1D4; /* Thick solid red bar at the very top */
 }
 
-/* --- 3. NEW: FIX THE MESSY SIDEBAR --- */
 /* These instructions clean up the trestles layout */
 
 /* Center everything inside the left sidebar (image, title, links) */

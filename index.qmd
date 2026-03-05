@@ -10,7 +10,7 @@ about:
       href: https://github.com/tselmena
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/tselmen-anuurad
+      href: https://www.linkedin.com/in/tselmen-anuurad/
 ---
 
 ## Hello there!

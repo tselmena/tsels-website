@@ -13,13 +13,6 @@ about:
       href: https://www.linkedin.com/in/tselmen-anuurad/
 ---
 
-## Hello there!
+Hello there! My name is Tselmen Anuurad, but I usually go by Tsel (pronounced like "cell"). I am currently a senior at the **University of California, Los Angeles (UCLA)** studying **Statistics and Data Science**, expected to graduate June 2026. I began my undergraduate education journey at **Sacramento City College** prior to my transfer to UCLA.
 
-I am a senior at **UCLA** majoring in **Statistics and Data Science**. 
-
-### My Background
-
-
-### Current Work
-
-I am currently working on...
+After graduation, I plan to pursue doctoral studies in Biostatistics. I am very excited about the intersection of statistics and public health, and I look forward to using biostatistical methods to create real-world public health solutions!

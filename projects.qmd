@@ -8,7 +8,7 @@ title: "Projects"
 
 ![Presentation Title](files/isi-buds3.jpg)
 
-During research internship at UC Irvine, I applied statistical modeling to identify optimal cognitive endpoints for future preclinical Alzheimer's Disease clinical trials. Our study abstract accepted for publication in the *Journal of Prevention of Alzheimer’s Disease (JPAD)* and presentation at the *18th Clinical Trials on Alzheimer's Disease* (Dec 2025). 
+During my SIBS research internship at UC Irvine, I applied statistical modeling to identify optimal cognitive endpoints for future preclinical Alzheimer's Disease clinical trials. Our study abstract accepted for publication in the *Journal of Prevention of Alzheimer’s Disease (JPAD)* and presentation at the *18th Clinical Trials on Alzheimer's Disease* (Dec 2025). 
 
 ::: {layout-ncol=2}
 ![Here's me presenting my work over the summer!](files/isi-buds.jpg)
@@ -32,7 +32,7 @@ Key features:
 
 *  Student‑friendly interface: intuitive inputs, UCLA colors (#2774AE), and a theme that scales nicely to phones for in‑lab use
 
-#### Publications
+### Publications
 
 * **Anuurad, T.**, Chan, C., Labia, H., Maierhofer, T. (2025). *UCLA Stats Calculator (Version 1.0)* [Computer software]. https://github.com/tselmena/S25-STATS-199-Shiny-App 
 * Gaona-Partida, P., **Anuurad, T.**, Sequeira, L., Ragaine, E., Turner, C., Grill, J.D., & Gillen, D.L. (2025). *Instructing Efficient Early Phase Preclinical Alzheimer's Disease Trials* [Abstract]. The Journal of Prevention of Alzheimer's Disease (JPAD). (Special Issue: CTAD 2025).

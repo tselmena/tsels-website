@@ -7,10 +7,11 @@ You can download my full CV here: <a href="files/Tselmen_Anuurad_CV_Nov_2025.pdf
 </a>
 </p>
 
-## Education
-**University of California, Los Angeles** | Los Angeles, CA
-B.S. in Statistics and Data Science | Expected June 2026
+### Education
+**University of California, Los Angeles** | *Bachelor of Science, Statistics and Data Science* | Expected June 2026
 
-## Experience
+### Publications
 
-Work in progress...
+* **Anuurad, T.**, Chan, C., Labia, H., Maierhofer, T. (2025). *UCLA Stats Calculator (Version 1.0)* [Computer software]. https://github.com/tselmena/S25-STATS-199-Shiny-App 
+* Gaona-Partida, P., **Anuurad, T.**, Sequeira, L., Ragaine, E., Turner, C., Grill, J.D., & Gillen, D.L. (2025). *Instructing Efficient Early Phase Preclinical Alzheimer's Disease Trials* [Abstract]. The Journal of Prevention of Alzheimer's Disease (JPAD). (Special Issue: CTAD 2025).
+* Myagmarsuren, M.; Law, H.G.; Zhang, W.; **Anuurad, T.**; Bang, H.; Bishop, L.M.; Shen, T.; Fiehn, O.; Petersen, K.S.; Berglund, L.; et al. (2025). *Lipoprotein(a) Lipidome: Responses to Reduced Dietary Saturated Fat Intake in Two Randomized Controlled Feeding Trials*. Nutrients, 17, 3113. https://doi.org/10.3390/nu17193113

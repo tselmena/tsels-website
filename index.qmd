@@ -17,4 +17,4 @@ about:
 
 I’m Tselmen Anuurad, though I usually go by Tsel (pronounced like "cell"). I am currently a senior at the University of California, Los Angeles (UCLA), where I’ll graduate in June 2026 with a B.S. in Statistics and Data Science. 
 
-I am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in clinical trials, longitudinal and survival analysis, and causal inference. I am particularly interested in applying these methods to neurodegenerative diseases to develop impactful, real-world public health solutions!
+I am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in **clinical trials**, **longitudinal and survival analysis**, and **causal inference**. I am particularly interested in applying these methods to **neurodegenerative diseases** to develop impactful, real-world public health solutions :)

@@ -33,5 +33,12 @@
     "title": "Tselmen Anuurad",
     "section": "",
     "text": "I’m Tselmen Anuurad, though I usually go by Tsel (pronounced like “cell”). I am currently a senior at the University of California, Los Angeles (UCLA), where I’ll graduate in June 2026 with a B.S. in Statistics and Data Science.\nI am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in clinical trials, longitudinal and survival analysis, and causal inference. I am particularly interested in applying these methods to neurodegenerative diseases to develop impactful, real-world public health solutions!"
+  },
+  {
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Projects",
+    "section": "Publications",
+    "text": "Publications\n\nAnuurad, T., Chan, C., Labia, H., Maierhofer, T. (2025). [cite_start]UCLA Stats Calculator (Version 1.0) [Computer software] [cite: 37][cite_start]. https://github.com/tselmena/S25-STATS-199-Shiny-App [cite: 37]\nGaona-Partida, P., Anuurad, T., Sequeira, L., Ragaine, E., Turner, C., Grill, J.D., & Gillen, D.L. (2025). [cite_start]Instructing Efficient Early Phase Preclinical Alzheimer’s Disease Trials [Abstract][cite: 38, 39]. [cite_start]The Journal of Prevention of Alzheimer’s Disease (JPAD)[cite: 39]. (Special Issue: CTAD 2025) [cite_start][cite: 40].\nMyagmarsuren, M.; Law, H.G.; Zhang, W.; Anuurad, T.; Bang, H.; Bishop, L.M.; Shen, T.; Fiehn, O.; Petersen, K.S.; Berglund, L.; et al. (2025). [cite_start]Lipoprotein(a) Lipidome: Responses to Reduced Dietary Saturated Fat Intake in Two Randomized Controlled Feeding Trials[cite: 41, 42]. [cite_start]Nutrients, 17, 3113 [cite: 43][cite_start]. https://doi.org/10.3390/nu17193113 [cite: 43]"
   }
 ]

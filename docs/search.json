@@ -1,44 +1,30 @@
 [
   {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
+    "objectID": "CV.html",
+    "href": "CV.html",
     "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. in Statistics and Data Science | Expected June 2026"
-  },
-  {
-    "objectID": "CV.html#experience",
-    "href": "CV.html#experience",
-    "title": "Curriculum Vitae",
-    "section": "Experience",
-    "text": "Experience\nWork in progress…"
+    "section": "",
+    "text": "You can download my full CV here:   \n\n\nEducation\nUniversity of California, Los Angeles | Bachelor of Science, Statistics and Data Science | Expected June 2026\n\n\nPublications\n\nAnuurad, T., Chan, C., Labia, H., Maierhofer, T. (2025). UCLA Stats Calculator (Version 1.0) [Computer software]. https://github.com/tselmena/S25-STATS-199-Shiny-App\nGaona-Partida, P., Anuurad, T., Sequeira, L., Ragaine, E., Turner, C., Grill, J.D., & Gillen, D.L. (2025). Instructing Efficient Early Phase Preclinical Alzheimer’s Disease Trials [Abstract]. The Journal of Prevention of Alzheimer’s Disease (JPAD). (Special Issue: CTAD 2025).\nMyagmarsuren, M.; Law, H.G.; Zhang, W.; Anuurad, T.; Bang, H.; Bishop, L.M.; Shen, T.; Fiehn, O.; Petersen, K.S.; Berglund, L.; et al. (2025). Lipoprotein(a) Lipidome: Responses to Reduced Dietary Saturated Fat Intake in Two Randomized Controlled Feeding Trials. Nutrients, 17, 3113. https://doi.org/10.3390/nu17193113"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Research\n\nSummer Institute of Biostatistics (2025)\n\n\n\nPresentation Title\n\n\nDuring my SIBS research internship at UC Irvine, I applied statistical modeling to identify optimal cognitive endpoints for future preclinical Alzheimer’s Disease clinical trials. Our study abstract accepted for publication in the Journal of Prevention of Alzheimer’s Disease (JPAD) and presentation at the 18th Clinical Trials on Alzheimer’s Disease (Dec 2025).\n\n\n\n\n\n\nHere’s me presenting my work over the summer!\n\n\n\n\n\n\n\nGrillen Lab Team Photo\n\n\n\n\n\n\n\n\nProjects\n\nUCLA Stats Calculator\nI led a 3-person team to develop the UCLA Stats Calculator under the supervision of Professor Thomas Maierhofer at the Department of Statistics. Built as an R Shiny web app, this pedagogical tool simplifies critical-value calculations and serves as a general-purpose calculator for common statistical tests and confidence intervals. Our work led to the application being officially hosted by the UCLA Statistics Department for use in introductory courses. As of March 2026, the project has been handed over to a successor student team who is actively expanding its functionality!\nKey features:\n\nLive, reactive output: results update instantly as you type; no “Calculate” button needed\nClean summary tables: every procedure produces a concise table showing the null and alternative hypothesis, sample estimates, p‑value, and test conclusions at α = 0.01, 0.05, 0.10\nOne‑click options: easily toggle confidence intervals, choose between proportion vs. raw successes, overlay the standard normal curve, and more\nStudent‑friendly interface: intuitive inputs, UCLA colors (#2774AE), and a theme that scales nicely to phones for in‑lab use\n\n\n\n\nPublications\n\nAnuurad, T., Chan, C., Labia, H., Maierhofer, T. (2025). UCLA Stats Calculator (Version 1.0) [Computer software]. https://github.com/tselmena/S25-STATS-199-Shiny-App\nGaona-Partida, P., Anuurad, T., Sequeira, L., Ragaine, E., Turner, C., Grill, J.D., & Gillen, D.L. (2025). Instructing Efficient Early Phase Preclinical Alzheimer’s Disease Trials [Abstract]. The Journal of Prevention of Alzheimer’s Disease (JPAD). (Special Issue: CTAD 2025).\nMyagmarsuren, M.; Law, H.G.; Zhang, W.; Anuurad, T.; Bang, H.; Bishop, L.M.; Shen, T.; Fiehn, O.; Petersen, K.S.; Berglund, L.; et al. (2025). Lipoprotein(a) Lipidome: Responses to Reduced Dietary Saturated Fat Intake in Two Randomized Controlled Feeding Trials. Nutrients, 17, 3113. https://doi.org/10.3390/nu17193113"
+    "text": "Research Highlight: Summer Institute of Biostatistics (2025)\n\n\n\nPresentation Title\n\n\nDuring my SIBS research internship at UC Irvine, I applied statistical modeling to identify optimal cognitive endpoints for future preclinical Alzheimer’s Disease clinical trials. Our study abstract was accepted for publication in the Journal of Prevention of Alzheimer’s Disease (JPAD) and presented at the 18th Clinical Trials on Alzheimer’s Disease (Dec 2025).\n\n\n\n\n\n\nHere’s me presenting my work over the summer!\n\n\n\n\n\n\n\nGrillen Lab Team Photo\n\n\n\n\n\n\n\nUCLA Stats Calculator\nI had the opportunity to lead a 3-person team to develop the UCLA Stats Calculator under the supervision of Professor Thomas Maierhofer at the Department of Statistics. Built as an R Shiny web app, this pedagogical tool simplifies critical-value calculations and serves as a general-purpose calculator for common statistical tests and confidence intervals. Our work led to the application being officially hosted online by the UCLA Statistics Department for use in introductory courses. As of March 2026, the project has been handed over to a successor student team who is actively expanding its functionality!\nKey features:\n\nLive, reactive output: results update instantly as you type; no “Calculate” button needed\nClean summary tables: every procedure produces a concise table showing the null and alternative hypothesis, sample estimates, p‑value, and test conclusions at α = 0.01, 0.05, 0.10\nOne‑click options: easily toggle confidence intervals, choose between proportion vs. raw successes, overlay the standard normal curve, and more\nStudent‑friendly interface: intuitive inputs, UCLA colors (#2774AE), and a theme that scales nicely to phones for in‑lab use"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tselmen Anuurad",
     "section": "",
-    "text": "I’m Tselmen Anuurad, though I usually go by Tsel (pronounced like “cell”). I am currently a senior at the University of California, Los Angeles (UCLA), where I’ll graduate in June 2026 with a B.S. in Statistics and Data Science.\nI am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in clinical trials, longitudinal and survival analysis, and causal inference. I am particularly interested in applying these methods to neurodegenerative diseases to develop impactful, real-world public health solutions!"
+    "text": "I’m Tselmen Anuurad, though I usually go by Tsel (pronounced like “cell”). I am currently a senior at the University of California, Los Angeles (UCLA), where I’ll graduate in June 2026 with a B.S. in Statistics and Data Science.\nI am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in clinical trials, longitudinal and survival analysis, and causal inference. I am particularly interested in applying these methods to neurodegenerative diseases to develop impactful, real-world public health solutions :)"
   },
   {
     "objectID": "index.html#hello-there",
     "href": "index.html#hello-there",
     "title": "Tselmen Anuurad",
     "section": "",
-    "text": "I’m Tselmen Anuurad, though I usually go by Tsel (pronounced like “cell”). I am currently a senior at the University of California, Los Angeles (UCLA), where I’ll graduate in June 2026 with a B.S. in Statistics and Data Science.\nI am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in clinical trials, longitudinal and survival analysis, and causal inference. I am particularly interested in applying these methods to neurodegenerative diseases to develop impactful, real-world public health solutions!"
-  },
-  {
-    "objectID": "projects.html#publications",
-    "href": "projects.html#publications",
-    "title": "Projects",
-    "section": "Publications",
-    "text": "Publications\n\nAnuurad, T., Chan, C., Labia, H., Maierhofer, T. (2025). [cite_start]UCLA Stats Calculator (Version 1.0) [Computer software] [cite: 37][cite_start]. https://github.com/tselmena/S25-STATS-199-Shiny-App [cite: 37]\nGaona-Partida, P., Anuurad, T., Sequeira, L., Ragaine, E., Turner, C., Grill, J.D., & Gillen, D.L. (2025). [cite_start]Instructing Efficient Early Phase Preclinical Alzheimer’s Disease Trials [Abstract][cite: 38, 39]. [cite_start]The Journal of Prevention of Alzheimer’s Disease (JPAD)[cite: 39]. (Special Issue: CTAD 2025) [cite_start][cite: 40].\nMyagmarsuren, M.; Law, H.G.; Zhang, W.; Anuurad, T.; Bang, H.; Bishop, L.M.; Shen, T.; Fiehn, O.; Petersen, K.S.; Berglund, L.; et al. (2025). [cite_start]Lipoprotein(a) Lipidome: Responses to Reduced Dietary Saturated Fat Intake in Two Randomized Controlled Feeding Trials[cite: 41, 42]. [cite_start]Nutrients, 17, 3113 [cite: 43][cite_start]. https://doi.org/10.3390/nu17193113 [cite: 43]"
+    "text": "I’m Tselmen Anuurad, though I usually go by Tsel (pronounced like “cell”). I am currently a senior at the University of California, Los Angeles (UCLA), where I’ll graduate in June 2026 with a B.S. in Statistics and Data Science.\nI am very excited about the intersection of statistics and medicine. Following graduation, I plan to pursue a PhD in Biostatistics to further my research in clinical trials, longitudinal and survival analysis, and causal inference. I am particularly interested in applying these methods to neurodegenerative diseases to develop impactful, real-world public health solutions :)"
   }
 ]

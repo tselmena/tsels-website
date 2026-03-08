@@ -9,6 +9,9 @@ title: "Projects"
 
 During my SIBS research internship at UC Irvine, I applied statistical modeling to identify optimal cognitive endpoints for future preclinical Alzheimer's Disease clinical trials. Our study abstract was accepted for publication in the *Journal of Prevention of Alzheimer’s Disease (JPAD)* and presented at the 18th *Clinical Trials on Alzheimer's Disease* (Dec 2025). 
 
+[You can check out our project repository on GitHub](https://github.com/tselmena/grillen-lab-isi-buds)
+
+
 ::: {layout-ncol=2}
 ![Here's me presenting my work over the summer!](files/isi-buds.jpg)
 
@@ -19,6 +22,8 @@ During my SIBS research internship at UC Irvine, I applied statistical modeling 
 ### UCLA Stats Calculator 
 
 I had the opportunity to lead a 3-person team to develop the UCLA Stats Calculator under the supervision of Professor Thomas Maierhofer at the Department of Statistics. Built as an R Shiny web app, this pedagogical tool simplifies critical-value calculations and serves as a general-purpose calculator for common statistical tests and confidence intervals. Our work led to the application being officially hosted online by the UCLA Statistics Department for use in introductory courses. As of March 2026, the project has been handed over to a successor student team who is actively expanding its functionality!
+
+[View my original repository on GitHub](https://github.com/tselmena/UCLA-Stats-Calculator)
 
 Key features:
 
